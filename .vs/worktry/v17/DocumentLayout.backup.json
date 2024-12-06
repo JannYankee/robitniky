@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gitlastwork\\worktry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A73834-0985-48DC-9159-92250505C864}|worktry.vcxproj|D:\\Gitlastwork\\worktry\\worktry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7A73834-0985-48DC-9159-92250505C864}|worktry.vcxproj|solutionrelative:worktry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A73834-0985-48DC-9159-92250505C864}|worktry.vcxproj|D:\\Gitlastwork\\worktry\\employees_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7A73834-0985-48DC-9159-92250505C864}|worktry.vcxproj|solutionrelative:employees_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employees_data.txt",
+              "DocumentMoniker": "D:\\Gitlastwork\\worktry\\employees_data.txt",
+              "RelativeDocumentMoniker": "employees_data.txt",
+              "ToolTip": "D:\\Gitlastwork\\worktry\\employees_data.txt",
+              "RelativeToolTip": "employees_data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-06T18:21:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "worktry.cpp",
+              "DocumentMoniker": "D:\\Gitlastwork\\worktry\\worktry.cpp",
+              "RelativeDocumentMoniker": "worktry.cpp",
+              "ToolTip": "D:\\Gitlastwork\\worktry\\worktry.cpp",
+              "RelativeToolTip": "worktry.cpp",
+              "ViewState": "AgIAACkBAAAAAAAAAAAswFoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T18:20:25.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
